@@ -5,3 +5,4 @@ The following competitions are included:
 
   - Titanic - Machine Learning from Disaster
   - House Prices - Advanced Regression Techniques
+  - Digit Recognizer
